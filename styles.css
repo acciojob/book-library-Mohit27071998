@@ -7,7 +7,7 @@ img{
   margin-left: auto;
   margin-right: auto;
 }
-#ai{
+h1{
 	text-align:center;
 }
 hr{
@@ -15,11 +15,11 @@ hr{
 }
 
 .book-library{
-	background-color:#f8f8f8;
+	background-color:;
 	width:350px;
 }
 .book{
-	background-color:#ffffff;
+	background-color:rgb(255, 255, 255);
 }
 .price_background{
 	background-color:rgb(46, 204, 113);
